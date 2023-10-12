@@ -1,0 +1,2 @@
+# odevler
+Deneyap ödevler
